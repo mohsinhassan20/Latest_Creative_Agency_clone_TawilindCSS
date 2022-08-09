@@ -1,0 +1,23 @@
+{
+  "name": "creative-agency-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss -i ./css/tailwind.css -o ./css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsinhassan20/creative-agency-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsinhassan20/creative-agency-tailwind/issues"
+  },
+  "homepage": "https://github.com/mohsinhassan20/creative-agency-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.7"
+  }
+}
